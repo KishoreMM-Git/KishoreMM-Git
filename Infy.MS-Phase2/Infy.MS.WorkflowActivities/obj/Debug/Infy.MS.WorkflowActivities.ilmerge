@@ -1,0 +1,15 @@
+Infy.MS.WorkflowActivities.dll
+Infy.XRMExtensions.dll
+Microsoft.Crm.Sdk.Proxy.dll
+Microsoft.Xrm.Sdk.dll
+System.Text.Json.dll
+System.ValueTuple.dll
+Microsoft.Bcl.AsyncInterfaces.dll
+Microsoft.Xrm.Sdk.Workflow.dll
+Newtonsoft.Json.dll
+System.Buffers.dll
+System.Memory.dll
+System.Numerics.Vectors.dll
+System.Runtime.CompilerServices.Unsafe.dll
+System.Text.Encodings.Web.dll
+System.Threading.Tasks.Extensions.dll

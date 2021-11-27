@@ -1,0 +1,174 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.Plugins", "Infy.MS.Plugin\Infy.MS.Plugins.csproj", "{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASSEMBLIES", "ASSEMBLIES", "{C1F08C05-A627-4485-AAE3-35B81A9C86BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.XRMExtensions", "Infy.XRMExtensions\Infy.XRMExtensions.csproj", "{47D71334-6559-4A83-AFEE-92257B5A2721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.WorkflowActivities", "Infy.MS.WorkflowActivities\Infy.MS.WorkflowActivities.csproj", "{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEBRESOURCES", "WEBRESOURCES", "{4EA4DCAC-0F66-4198-849E-39673D6D72BB}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Infy.MS.WebResource", "Infy.MS.WebResource", "{19ED41AB-16BF-49DD-8D12-7245677216EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_6887"
+		Debug.AspNetCompiler.PhysicalPath = "Infy.MS.WebResource\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6887\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_6887"
+		Release.AspNetCompiler.PhysicalPath = "Infy.MS.WebResource\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6887\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6887"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_6887"
+		Debug.AspNetCompiler.PhysicalPath = "Infy.MS.WebResource\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6887\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_6887"
+		Release.AspNetCompiler.PhysicalPath = "Infy.MS.WebResource\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6887\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6887"
+		SlnRelativePath = "Infy.MS.WebResource\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infy.MS.LeadIntegration", "Infy.MS.LeadIntegration\Infy.MS.LeadIntegration\Infy.MS.LeadIntegration.csproj", "{BE10442F-74FB-4B05-8D46-D020E42B890D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure function", "Azure function", "{258B3313-E3EC-4BCB-A563-3E770C2291D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure Web Job", "Azure Web Job", "{27CA2056-0BF4-462A-9AFA-1412A3AC3D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.PossibleNowDNC", "Infy.MS.PossibleNowDNC\Infy.MS.PossibleNowDNC.csproj", "{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateUserProfile", "UpdateUserProfile\UpdateUserProfile.csproj", "{C1BF24E1-E9D1-474C-ACBB-7307A83AF082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.UpcomingBirthdayTaskCreation", "Infy.MS.UpcomingBirthdayTaskCreation\Infy.MS.UpcomingBirthdayTaskCreation.csproj", "{7DF6F3D1-4B41-491F-92D7-A9720973AA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.SMSActivity", "Infy.MS.SMSActivity\Infy.MS.SMSActivity.csproj", "{5DEA3252-FE4C-43A8-8475-E2346B526A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.NextBestActionActivity", "Infy.MS.NextBestActionActivity\Infy.MS.NextBestActionActivity.csproj", "{BAACA5E5-E23B-4EB1-A351-A886F9A888AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.ActivitySchedulerCreateActivityRequest", "Infy.MS.ActivitySchedulerCreateActivityRequest\Infy.MS.ActivitySchedulerCreateActivityRequest.csproj", "{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.AutoShareLeadLoanContacts", "Infy.MS.AutoShareLeadLoanContacts\Infy.MS.AutoShareLeadLoanContacts.csproj", "{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.AutomaticTaskCreation", "Infy.MS.AutomaticTaskCreation\Infy.MS.AutomaticTaskCreation.csproj", "{F2514545-D849-4A88-9784-7D1F0B157E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infy.MS.CreatePreDefinedList", "Infy.MS.CreatePreDefinedList\Infy.MS.CreatePreDefinedList.csproj", "{2646562E-C423-410D-B1D8-55974EEB6BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D71334-6559-4A83-AFEE-92257B5A2721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D71334-6559-4A83-AFEE-92257B5A2721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D71334-6559-4A83-AFEE-92257B5A2721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D71334-6559-4A83-AFEE-92257B5A2721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19ED41AB-16BF-49DD-8D12-7245677216EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ED41AB-16BF-49DD-8D12-7245677216EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ED41AB-16BF-49DD-8D12-7245677216EA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ED41AB-16BF-49DD-8D12-7245677216EA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BE10442F-74FB-4B05-8D46-D020E42B890D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE10442F-74FB-4B05-8D46-D020E42B890D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE10442F-74FB-4B05-8D46-D020E42B890D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE10442F-74FB-4B05-8D46-D020E42B890D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BF24E1-E9D1-474C-ACBB-7307A83AF082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BF24E1-E9D1-474C-ACBB-7307A83AF082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BF24E1-E9D1-474C-ACBB-7307A83AF082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BF24E1-E9D1-474C-ACBB-7307A83AF082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF6F3D1-4B41-491F-92D7-A9720973AA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6F3D1-4B41-491F-92D7-A9720973AA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF6F3D1-4B41-491F-92D7-A9720973AA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6F3D1-4B41-491F-92D7-A9720973AA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEA3252-FE4C-43A8-8475-E2346B526A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEA3252-FE4C-43A8-8475-E2346B526A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEA3252-FE4C-43A8-8475-E2346B526A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEA3252-FE4C-43A8-8475-E2346B526A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAACA5E5-E23B-4EB1-A351-A886F9A888AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAACA5E5-E23B-4EB1-A351-A886F9A888AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAACA5E5-E23B-4EB1-A351-A886F9A888AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAACA5E5-E23B-4EB1-A351-A886F9A888AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2514545-D849-4A88-9784-7D1F0B157E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2514545-D849-4A88-9784-7D1F0B157E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2514545-D849-4A88-9784-7D1F0B157E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2514545-D849-4A88-9784-7D1F0B157E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2646562E-C423-410D-B1D8-55974EEB6BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2646562E-C423-410D-B1D8-55974EEB6BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2646562E-C423-410D-B1D8-55974EEB6BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2646562E-C423-410D-B1D8-55974EEB6BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF7A8CDB-B16C-4FC6-83B5-69F38F3C5153} = {C1F08C05-A627-4485-AAE3-35B81A9C86BC}
+		{47D71334-6559-4A83-AFEE-92257B5A2721} = {C1F08C05-A627-4485-AAE3-35B81A9C86BC}
+		{E3E1B8EE-F3BF-49F1-B3C8-76A8C2E012B9} = {C1F08C05-A627-4485-AAE3-35B81A9C86BC}
+		{19ED41AB-16BF-49DD-8D12-7245677216EA} = {4EA4DCAC-0F66-4198-849E-39673D6D72BB}
+		{BE10442F-74FB-4B05-8D46-D020E42B890D} = {258B3313-E3EC-4BCB-A563-3E770C2291D7}
+		{0E26AC81-40F7-4ABB-95B1-2BDF6712FF9C} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{C1BF24E1-E9D1-474C-ACBB-7307A83AF082} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{7DF6F3D1-4B41-491F-92D7-A9720973AA4C} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{5DEA3252-FE4C-43A8-8475-E2346B526A30} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{BAACA5E5-E23B-4EB1-A351-A886F9A888AB} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{A1F27CC9-2F42-46D0-90AA-294D4C5ABF86} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{B7EA4D17-6DE2-4F78-9BA3-DD42FB767F48} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{F2514545-D849-4A88-9784-7D1F0B157E4C} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+		{2646562E-C423-410D-B1D8-55974EEB6BFD} = {27CA2056-0BF4-462A-9AFA-1412A3AC3D51}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B334FA3F-A3C5-45E5-814D-B9B4B3FC7334}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47D71334-6559-4A83-AFEE-92257B5A2721}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infy.XRMExtensions</RootNamespace>
+    <AssemblyName>Infy.XRMExtensions</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Infy.XRMExtensions.key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Crm.Sdk.Proxy">
+      <HintPath>..\..\..\..\..\..\..\devtools\Tools\PluginRegistration\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk">
+      <HintPath>..\..\..\..\..\..\..\devtools\Tools\PluginRegistration\Microsoft.Xrm.Sdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk.Deployment">
+      <HintPath>..\..\..\..\..\..\..\devtools\Tools\PluginRegistration\Microsoft.Xrm.Sdk.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk.Workflow">
+      <HintPath>..\..\..\..\..\..\..\devtools\Tools\PluginRegistration\Microsoft.Xrm.Sdk.Workflow.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Core.Presentation" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Workflow.Activities" />
+    <Reference Include="System.Workflow.ComponentModel" />
+    <Reference Include="System.Workflow.Runtime" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EntityConstants\Account.cs" />
+    <Compile Include="EntityConstants\ACSCampaignRequest.cs" />
+    <Compile Include="EntityConstants\Activity.cs" />
+    <Compile Include="EntityConstants\ActivityParty.cs" />
+    <Compile Include="EntityConstants\AdobeCampaignEmailSend.cs" />
+    <Compile Include="EntityConstants\AEMEmail.cs" />
+    <Compile Include="EntityConstants\Annotation.cs" />
+    <Compile Include="EntityConstants\AppConfigSetup.cs" />
+    <Compile Include="EntityConstants\AppConfigSetupKeys.cs" />
+    <Compile Include="EntityConstants\Appointment.cs" />
+    <Compile Include="EntityConstants\BookableResource.cs" />
+    <Compile Include="EntityConstants\BookableResourceCharacteristic.cs" />
+    <Compile Include="EntityConstants\Campaign.cs" />
+    <Compile Include="EntityConstants\Characteristic.cs" />
+    <Compile Include="EntityConstants\Configuration.cs" />
+    <Compile Include="EntityConstants\ConfigurationKeys.cs" />
+    <Compile Include="EntityConstants\Connection.cs" />
+    <Compile Include="EntityConstants\ConnectionRole.cs" />
+    <Compile Include="EntityConstants\Contact.cs" />
+    <Compile Include="EntityConstants\ContactType.cs" />
+    <Compile Include="EntityConstants\Customer.cs" />
+    <Compile Include="EntityConstants\Email.cs" />
+    <Compile Include="EntityConstants\ErrorLog.cs" />
+    <Compile Include="EntityConstants\Goal.cs" />
+    <Compile Include="EntityConstants\ImportDataMaster.cs" />
+    <Compile Include="EntityConstants\ImportDetailsMapping.cs" />
+    <Compile Include="EntityConstants\ImportProcess.cs" />
+    <Compile Include="EntityConstants\Lead.cs" />
+    <Compile Include="EntityConstants\LeadAddress.cs" />
+    <Compile Include="EntityConstants\Leadscore.cs" />
+    <Compile Include="EntityConstants\LeadScoringConfiguration.cs" />
+    <Compile Include="EntityConstants\LeadScoringModel.cs" />
+    <Compile Include="EntityConstants\LeadSource.cs" />
+    <Compile Include="EntityConstants\LeadStaging.cs" />
+    <Compile Include="EntityConstants\LeadStatus.cs" />
+    <Compile Include="EntityConstants\Loan.cs" />
+    <Compile Include="EntityConstants\LoanProgram.cs" />
+    <Compile Include="EntityConstants\LoanPurpose.cs" />
+    <Compile Include="EntityConstants\LoanStaging.cs" />
+    <Compile Include="EntityConstants\LoanStatus.cs" />
+    <Compile Include="EntityConstants\LoanStatusMapping.cs" />
+    <Compile Include="EntityConstants\LoanType.cs" />
+    <Compile Include="EntityConstants\Marketinglist.cs" />
+    <Compile Include="EntityConstants\MortgageLoanProcess.cs" />
+    <Compile Include="EntityConstants\OptionSets.cs" />
+    <Compile Include="EntityConstants\OtherContact.cs" />
+    <Compile Include="EntityConstants\PhoneCall.cs" />
+    <Compile Include="EntityConstants\PizzaTrackerProcess.cs" />
+    <Compile Include="EntityConstants\Product.cs" />
+    <Compile Include="EntityConstants\Property.cs" />
+    <Compile Include="EntityConstants\PropertyType.cs" />
+    <Compile Include="EntityConstants\PurchaseTimeframeMapping.cs" />
+    <Compile Include="EntityConstants\RoutingRule.cs" />
+    <Compile Include="EntityConstants\SMS.cs" />
+    <Compile Include="EntityConstants\State.cs" />
+    <Compile Include="EntityConstants\SystemUser.cs" />
+    <Compile Include="EntityConstants\Task.cs" />
+    <Compile Include="EntityConstants\Team.cs" />
+    <Compile Include="EntityConstants\Template.cs" />
+    <Compile Include="EntityConstants\WebResource.cs" />
+    <Compile Include="IMSExtensions\IMSExtensions.cs" />
+    <Compile Include="XRMExtensions\Common.cs" />
+    <Compile Include="XRMExtensions\Constants.cs" />
+    <Compile Include="XRMExtensions\EntityExtensions.cs" />
+    <Compile Include="XRMExtensions\EntityReferenceExtensions.cs" />
+    <Compile Include="XRMExtensions\ExecutionConfig.cs" />
+    <Compile Include="XRMExtensions\OrganizationServiceExtensions.cs" />
+    <Compile Include="XRMExtensions\MoneyExtensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SystemExtensions\SystemExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Infy.XRMExtensions.key.snk" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

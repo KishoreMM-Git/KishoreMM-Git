@@ -1,0 +1,51 @@
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csprojAssemblyReference.cache
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csproj.CoreCompileInputs.cache
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.pdb
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csprojAssemblyReference.cache
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csproj.CoreCompileInputs.cache
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csproj.AssemblyReference.cache
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Infy.MS.Plugins.dll.config
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Infy.MS.Plugins.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Infy.MS.Plugins.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Infy.XRMExtensions.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Net.Http.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Twilio.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Infy.XRMExtensions.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\bin\Debug\Twilio.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.MS.Plugin\obj\Debug\Infy.MS.Plugins.csproj.CopyComplete

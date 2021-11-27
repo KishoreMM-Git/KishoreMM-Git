@@ -1,0 +1,33 @@
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CoreCompileInputs.cache
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.pdb
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CopyComplete
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.dll
+D:\Projects\MM\Git-Repo\mm-git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.pdb
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.pdb
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CoreCompileInputs.cache
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CopyComplete
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.dll
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.pdb
+D:\Projects\MM\Sprint 3 Brach Git\Infy.MS-Phase2\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csprojAssemblyReference.cache
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Infy.XRMExtensions.pdb
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CoreCompileInputs.cache
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.csproj.CopyComplete
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.dll
+C:\Users\kishore.perumogina\source\repos\MovehomeSolution\Infy.MS-Phase2\Infy.XRMExtensions\obj\Debug\Infy.XRMExtensions.pdb
