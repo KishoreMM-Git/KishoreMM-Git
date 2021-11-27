@@ -880,7 +880,7 @@ namespace Infy.MS.Plugins
 
                         if (leadStaging.Contains(LeadStaging.BulkLeadContactTags) && (objEntity.LogicalName == Lead.EntityName || objEntity.LogicalName == Contact.EntityName));
                         {
-                            objCommon.BuildTags(service, leadStaging.GetAttributeValue<string>(LeadStaging.BulkLeadContactTags),extendedPluginContext.InitiatingUserId, objEntity.Id, objEntity.LogicalName,ref errorMessage);
+                            //objCommon.BuildTags(service, leadStaging.GetAttributeValue<string>(LeadStaging.BulkLeadContactTags),extendedPluginContext.InitiatingUserId, objEntity.Id, objEntity.LogicalName,ref errorMessage);
                         }
                         //To Process Failed Loans from Loan Staging,
                         if (objEntity.LogicalName == Lead.EntityName && objEntity.Contains(Lead.ExternalID))
